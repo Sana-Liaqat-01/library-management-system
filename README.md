@@ -19,7 +19,7 @@ This repository contains a Python implementation of a Library Management System.
 
 3. **Run the program:**
    ```bash
-   python library_system.py
+   python3 library_management_system.py
 
 ## Contributing
 Contributions are welcome! Please feel free to fork the repository and submit pull requests to suggest improvements or new features.
